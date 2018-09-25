@@ -4,9 +4,7 @@
     <h1 class="title">
       Universal Vue.js Applications Framework
     </h1>
-    <nuxt-link class="button" to="/about">
-      About page
-    </nuxt-link>
+    <v-btn color="primary" dark to="/about">About page</v-btn>
   </section>
 </template>
 

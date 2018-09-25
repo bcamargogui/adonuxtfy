@@ -28,6 +28,7 @@
     "cross-env": "^3.1.4",
     "nuxt": "latest",
     "standard": "^8.6.0",
+    "vuetify": "^1.2.4",
     "youch": "^2.0.4"
   },
   "standard": {

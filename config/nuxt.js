@@ -24,12 +24,22 @@ module.exports = {
     ],
     link: [
       {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons'
+      },
+      {
         rel: 'icon',
         type: 'image/x-icon',
         href: 'favicon.ico'
       }
     ]
   },
+  /*
+  ** Plugins Vue
+  */
+  plugins: [
+    { src: '~/plugins/vuetify' }
+  ],
   /*
   ** Global CSS
   */
