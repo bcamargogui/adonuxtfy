@@ -2,7 +2,7 @@
   "name": "adonuxt",
   "version": "1.0.0",
   "author": "",
-  "description": "",
+  "description": "some new description here",
   "license": "MIT",
   "private": true,
   "main": "server.js",
